@@ -13,5 +13,6 @@ public class GugudanMain {
 				for(int i=2; i<10; i++) {
 					Gugudan3.print(Gugudan3.caculate(i));
 				}
+				//Gugudan3클래스를 호출하여 구구단 출력
  }
 }
